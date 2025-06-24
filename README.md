@@ -78,7 +78,7 @@ Lalapinkbun From Trio Dimension Studio
 ## About the Source Code
 It'll appear after the demo version
 
-Version Now: __**1.0.0-alpha**__
+Version Now: __**v0.1 beta**__
 
 ## From Fenqiyaun
 Eh.... Hi?
