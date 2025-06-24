@@ -6,6 +6,13 @@ Hi! Lalapinkbun here, so here is the name of the game I'm developing is called *
 
 Reminiscer of Dream is a 2D turn-based RPG game that incorporates a unique card system, adding complexity and diversity to the gameplay. The game features a storyline with multiple chapters, where players take on the role of the "Reminiscer" to explore the mysteries of the land known as the "Dreamscape Abyss".
 
+## What Happen on this "new"?
+Because the old version was made by very urgent at the time, it was not developed properly (there were a lot of bugs and I have literally no energy to solve them). So, I had planned to re-develop this game
+
+You can still play the old version "concept game" here btw
+
+[The Game](https://github.com/Lalapinkbun/Reminiscer-Of-Dream/releases/tag/v1.0.0-alpha)
+
 ## Credit
 Thanks For Your Playing!
 
